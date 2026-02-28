@@ -20,15 +20,3 @@
 **Solution file:** `challenge_01_greeting.py`
 
 **Output:**
-
-![Challenge 1 Output](screenshots/challenge_01_output.png)
-
-### Challenge 2 — Age Calculator
-
-**Concepts:** `input()`, f-strings, string concatenation
-
-**Solution file:** `challenge_02_age_calculator.py`
-
-**Output:**
-
-![Challenge 2 Output](screenshots/challenge_02_output.png)
