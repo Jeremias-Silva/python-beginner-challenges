@@ -27,7 +27,7 @@
 
 **Concepts:** `input()`, data casting with `int()`, arithmetic, string formatting
 
-Goal: Ask the user for their birth year and calculate their current age.
+**Goal:** Ask the user for their birth year and calculate their current age.
 
 **Solution file:** `challenge_02_age_calculator.py`
 
@@ -37,9 +37,9 @@ Goal: Ask the user for their birth year and calculate their current age.
 
 ### Challenge 3 — Temperature Converter
 
-**Concepts: `input()`, casting with `float()`, arithmetic, f-strings with formatting specifiers
+**Concepts:** `input()`, casting with `float()`, arithmetic, f-strings with formatting specifiers
 
-Goal: Ask the user for a temperature in Celsius and convert it to Fahrenheit.
+**Goal:** Ask the user for a temperature in Celsius and convert it to Fahrenheit.
 
 **Solution file:** `challenge_03_temperature_converter.py`
 
@@ -49,9 +49,9 @@ Goal: Ask the user for a temperature in Celsius and convert it to Fahrenheit.
 
 ### Challenge 4 — Shopping Receipt
 
-**Concepts: `input()`, `float()`, `int()`, f-strings, basic arithmetic, string alignment
+**Concepts:** `input()`, `float()`, `int()`, f-strings, basic arithmetic, string alignment
 
-Goal: Ask the user for 3 item names and their prices, then print a formatted receipt with a total.
+**Goal:** Ask the user for 3 item names and their prices, then print a formatted receipt with a total.
 
 **Solution file:** `challenge_04_shopping_receipt.py`
 
@@ -61,9 +61,9 @@ Goal: Ask the user for 3 item names and their prices, then print a formatted rec
 
 ### Challenge 5 — Profile Card
 
-**Concepts: `input()`, `int()`, `float()`, `str()`, f-strings, multiple data types together
+**Concepts:** `input()`, `int()`, `float()`, `str()`, f-strings, multiple data types together
 
-Goal: Collect various details about the user and display a neatly formatted profile card, demonstrating use of multiple data types.
+**Goal:** Collect various details about the user and display a neatly formatted profile card, demonstrating use of multiple data types.
 
 **Solution file:** `challenge_05_profile_card.py`
 
