@@ -20,3 +20,4 @@
 **Solution file:** `challenge_01_greeting.py`
 
 **Output:**
+![Challenge 1 Output](screenshots/challenge_01_output.png)
