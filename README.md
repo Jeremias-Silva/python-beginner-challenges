@@ -32,7 +32,7 @@ Goal: Ask the user for their birth year and calculate their current age.
 **Solution file:** `challenge_02_age_calculator.py`
 
 **Output:**
-![Challenge 2 Output](screenshots/challenge_03_output.png)
+![Challenge 2 Output](screenshots/challenge_02_output.png)
 
 
 ### Challenge 3 — Temperature Converter
